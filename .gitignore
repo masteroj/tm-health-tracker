@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+
+# generated native projects (recreated during the build)
+android/
+ios/
+
+# expo
+.expo/
+dist/
+web-build/
+
+# build outputs
+*.apk
+*.aab
+
+# misc
+.DS_Store
+*.log
